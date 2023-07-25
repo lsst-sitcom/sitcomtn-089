@@ -29,7 +29,7 @@ The first Laser Tracker sequence was run on July 5th, 2023. It was a step-wise s
 
 .. figure:: /_static/elevations.png
    :name: elevations
-   :scale: 2 %
+   :scale: 1 %
 
 That sequence generated a set of offsets that were used to realign the system. Looking at those offsets we can drive conclusions on the system flexure. Below are the Camera Offsets measured by the Laser Tracker.
 
